@@ -83,10 +83,9 @@ In Dark Chess, the pieces are hidden from both players until they move. The game
 - User data, including passwords, experience, scores, and game progress, are saved in a `users.json` file.
 - The platform automatically updates the file when changes are made, such as during login, registration, or gameplay.
 
-<!--
 ## Video Demo
 
-For a visual demonstration of the application, check out our video: [Video Link](https://youtu.be/PdxhdXAPpGY).-->
+For a visual demonstration of the application, check out our video: [Video Link](https://www.youtube.com/watch?v=itxYqdAk32c&ab_channel=%E8%94%A1%E5%AE%9B%E7%A7%A6).
 <br>
 
 👨‍🏫 Advisor: CHIEN-LIANG LIU
